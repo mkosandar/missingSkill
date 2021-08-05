@@ -1,0 +1,6 @@
+﻿control structure,discription,syntax
+if-else,It is the condotional statement.,if (condition)
+"for loop ",execute code n times.,forfor(intialization;Condition;Increment/decrement)
+do-while,it execute block of code at ones and when condition is true then execute again.,do{execute code} while(condition)
+while,when condition is true the loop is executed.,while(condition){program}
+switch,use to perfrom diffrent action at different condition.,switch(expression)

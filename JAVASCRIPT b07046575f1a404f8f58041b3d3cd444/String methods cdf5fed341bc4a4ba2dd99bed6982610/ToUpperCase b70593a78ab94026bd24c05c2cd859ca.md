@@ -1,0 +1,3 @@
+# ToUpperCase
+
+Syntax: variableName.toUpperCase

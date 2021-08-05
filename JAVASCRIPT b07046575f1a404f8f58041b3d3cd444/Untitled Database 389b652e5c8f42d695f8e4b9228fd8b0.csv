@@ -1,0 +1,6 @@
+﻿Functions,Syntax
+SetTimeOut,"setTimeout(param1,time)"
+SetInterval,"setInterval(param1,time)"
+ParseInt,parseInt(param)
+ParseFloat,parseFloat(param)
+JSON,"{""key"":""Value""}"

@@ -1,0 +1,3 @@
+# ParseInt
+
+Syntax: parseInt(param)

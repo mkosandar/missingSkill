@@ -1,0 +1,7 @@
+﻿Built in Methods,Syntax
+ToUpperCase,variableName.toUpperCase
+ToLowerCase,variableName.toLowerCase
+Split,variableName.split(Delimiters)
+Rplace,"variableName.replace(""Value want to replace"",""New value"")"
+Trim,variableName.trim()
+SubString,variableName.substr()

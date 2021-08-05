@@ -1,0 +1,3 @@
+# ParseFloat
+
+Syntax: parseFloat(param)

@@ -1,0 +1,13 @@
+﻿opearator,discription
++,addition
+-,subtraction
+*,multiplication
+/,divide
+%,module
+==,equal to
+≠,not equl
+>,grater than
+<,"less than "
+≤,less than equal
+≥,grater than equal
+,
