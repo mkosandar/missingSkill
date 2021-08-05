@@ -164,47 +164,43 @@ Objects can be created using the Object() constructor.
 
 ## method of object:
 
-**`[Object.assign()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign)`**
+**`[Object.assign()assign)`**
 
-Copies the values of all enumerable own properties from one or more source objects to a target object.
-
-**`[Object.create()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/create)`**
-
+Copies the values of all enumerable own properties from one or more source objects to a target object
+Object.create()
 Creates a new object with the specified prototype object and properties.
 
-**`[Object.defineProperty()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty)`**
-
+Object.defineProperty()
 Adds the named property described by a given descriptor to an object.
 
-**`[Object.freeze()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/freeze)`**
-
+**`[Object.freeze()
 Freezes an object. Other code cannot delete or change its properties.
 
-**`[Object.is()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/is)`**
+**`[Object.is()`**
 
 Compares if two values are the same value. Equates all `NaN` values (which differs from both Abstract Equality Comparison and Strict Equality Comparison).
 
-**`[Object.isExtensible()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/isExtensible)`**
+**`[Object.isExtensible()`**
 
 Determines if extending of an object is allowed.
 
-**`[Object.isFrozen()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/isFrozen)`**
+**`[Object.isFrozen()`**
 
 Determines if an object was frozen.
 
-**`[Object.isSealed()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/isSealed)`**
+**`[Object.isSealed()`**
 
 Determines if an object is sealed.
 
-**`[Object.keys()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys)`**
+**`[Object.keys()`**
 
 Returns an array containing the names of all of the given object's **own** enumerable string properties.
 
-**`[Object.preventExtensions()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/preventExtensions)`**
+**`[Object.preventExtensions()`**
 
 Prevents any extensions of an object.
 
-**`[Object.seal()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/seal)`**
+**`[Object.seal()`**
 
 Prevents other code from deleting properties of an object.
 
