@@ -170,10 +170,10 @@ Copies the values of all enumerable own properties from one or more source objec
 Object.create()
 Creates a new object with the specified prototype object and properties.
 
-Object.defineProperty()
+** Object.defineProperty() **
 Adds the named property described by a given descriptor to an object.
 
-**`[Object.freeze()
+**`[Object.freeze() **
 Freezes an object. Other code cannot delete or change its properties.
 
 **`[Object.is()`**
