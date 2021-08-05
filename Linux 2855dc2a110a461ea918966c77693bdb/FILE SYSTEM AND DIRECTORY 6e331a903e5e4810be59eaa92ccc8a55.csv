@@ -1,0 +1,16 @@
+﻿Dierctory,discription,syntax
+"/boot ",System kernel stored here.,cd /boot
+/bin,Binary file stored here.,cd /bin
+/sbin,System binary used by system admin and cannot access by normal user.,cd /sbin
+/home,In home directrory user is created and stored users data.,cd /home
+/var,System level variables are stored here.,cd /var
+/usr,User system resource. contains applications and files used by users,cd /usr
+/root,Home folder for root http://user.is denotaed by #.,cd /root
+/tmp,Store temporary files.,cd /tmp
+/etc,Contains system configuration files.,cd /etc
+/lib,System level library stored.,cd /lib
+/mnt,temporary mount points for mounting storage devices.,cd /mnt
+/dev,It contain external device information.,cd /dev
+/opt,It contain software related data.,cd /opt
+/proc,It  show current system information," cd /proc"
+,,

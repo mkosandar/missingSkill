@@ -1,0 +1,21 @@
+﻿command,Discription,Syntax
+git init .,Create empty Git repository in specified directory.,git init .
+git add,Add file unstage to stage area.,git add <file name> /. /*
+git commit,Adding file stage area to repository.,"git commit -m""message"""
+git log,Display the commit history.,git log
+git show,To view the commit.,git show  <commit_id>
+"git status ","Show the current status of git tree. ",git status
+"git diff ",Show all the changes that have been made to file.,git diff <file name>
+git branch," It is use to create new branch.",git branch <branch name>
+,Use to remove the branch.,git branch <branch name> -D/-d
+git checkout,It is use to switch the branch.,git checkout <branch name>
+,It is use to recover the file. and also reverce the step.,git checkout --<file name>
+git push,It is use to push file from local to remote server.,git push <remote name><branch name>
+git clone,Downloads a project with the entire history from the remote repository.,git clone <remote-repo-URL or Path>
+git fetch,It is use to fetch the branch from remote to local server.,git fetch <repository Url>
+git merge,It is use to merge branch to master branch.,git merge <branch name>
+git pull,To fetch the content from remote repository and update in local repository.,git pull <repository>
+git reset,It is use for undo the last commit.,git reset HEAD<folder name>
+git stash,It is use to enables you to switch branches without committing the current branch.,git stash
+,It is use to pull out the changes.,git stash pop
+git config,It is use to configure the value.,
